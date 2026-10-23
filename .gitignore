@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DrawAI - Trainingsdaten
+data/
+
+# DrawAI - Temporäre Testzeichnung
+letzte_zeichnung.png
